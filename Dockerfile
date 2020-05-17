@@ -1,2 +1,2 @@
-FROM postgres:12.2
+FROM postgres:12.3
 MAINTAINER Graham Lee <ghmlee@ghmlee.com>
